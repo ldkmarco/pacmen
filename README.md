@@ -1,2 +1,2 @@
-# pacmen
+# PacMen
 Arcade game remade
