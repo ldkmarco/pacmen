@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/ldkmarco) - ldkmarco@gmail.com
+Marco Paniagua - [@twitter_handle](https://twitter.com/ldkmarco) - ldkmarco@gmail.com
 
 Project Link: [https://github.com/ldkmarco/pacmen](https://github.com/ldkmarco/pacmen)
 
