@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mpanrousseau/]
+![LinkedIn][linkedin-shield]https://www.linkedin.com/in/mpanrousseau/
 
 
 
@@ -89,10 +89,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Marco Paniagua - [@twitter_handle](https://twitter.com/ldkmarco) - ldkmarco@gmail.com
+Your Name - [@twitter_handle](https://twitter.com/ldkmarco) - ldkmarco@gmail.com
 
 Project Link: [https://github.com/ldkmarco/pacmen](https://github.com/ldkmarco/pacmen)
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mpanrousseau/
